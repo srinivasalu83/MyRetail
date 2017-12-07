@@ -49,3 +49,5 @@ Sample output screen shot:
 GetList of products.png - displays collection of production
 GetSuccess.png - displays GET Success
 put success - successfully  updated the price information based on json
+
+https://github.com/srinivasalu83/MyRetail/blob/master/target/MyRetail/Getlist%20of%20products.PNG
